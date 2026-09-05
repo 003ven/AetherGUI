@@ -6,8 +6,8 @@ use tauri::{AppHandle, Emitter, Manager};
 use tokio::io::AsyncWriteExt;
 use tokio::sync::Mutex;
 
-const RELEASE_API: &str = "https://api.github.com/repos/hamvex/AetherGUI/releases?per_page=30";
-const DOWNLOAD_PREFIX: &str = "https://github.com/hamvex/AetherGUI/releases/download/";
+const RELEASE_API: &str = "https://api.github.com/repos/003ven/AetherGUI/releases?per_page=30";
+const DOWNLOAD_PREFIX: &str = "https://github.com/003ven/AetherGUI/releases/download/";
 const CHECKSUM_ASSET: &str = "SHA256SUMS.txt";
 
 #[derive(Default)]
