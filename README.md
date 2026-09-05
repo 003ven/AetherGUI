@@ -1,4 +1,4 @@
-# Aethon
+# ZagrosNet
 
 Aethon is an independent Windows and Android client for the official [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) networking core. Windows version 2.0.0 bundles the verified Aether 1.7.0 core and provides system-wide VPN routing or a local SOCKS5 proxy through focused desktop and mobile interfaces.
 
