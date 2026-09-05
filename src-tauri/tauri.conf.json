@@ -1,8 +1,8 @@
 {
     "$schema":  "https://schema.tauri.app/config/2",
-    "productName":  "Aethon",
+    "productName":  "ZagrosNet",
     "version":  "2.0.0",
-    "identifier":  "io.github.hamvex.aether-gui",
+    "identifier":  "io.github.003ven.zagrosnet",
     "build":  {
                   "frontendDist":  "../dist",
                   "devUrl":  "http://localhost:1420",
@@ -13,7 +13,7 @@
                 "windows":  [
                                 {
                                     "label":  "main",
-                                    "title":  "Aethon",
+                                    "title":  "ZagrosNet",
                                     "width":  430,
                                     "height":  860,
                                     "minWidth":  360,
@@ -33,7 +33,7 @@
                                    "nsis",
                                    "msi"
                                ],
-                   "publisher":  "hamvex",
+                   "publisher":  "003ven",
                    "category":  "Utility",
                    "shortDescription":  "Aethon - a standalone Windows client for Aether",
                    "longDescription":  "Connect Windows through Aether with built-in TUN routing, DNS protection, recovery, and no companion proxy application.",
