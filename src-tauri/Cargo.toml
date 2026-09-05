@@ -1,8 +1,8 @@
 [package]
-name = "aether-gui"
+name = "ZagrosNet"
 version = "2.0.0"
-description = "Aethon - an independent Windows desktop frontend for Aether"
-authors = ["hamvex"]
+description = "ZagrosNet - independent Windows client for Aether"
+authors = ["003ven"]
 edition = "2021"
 
 [lib]
