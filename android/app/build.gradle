@@ -20,11 +20,11 @@ def releaseSigningAvailable = keystorePath && keystorePassword && keyAliasName &
 def releaseRequested = gradle.startParameter.taskNames.any { it.toLowerCase().contains('release') }
 
 android {
-    namespace 'com.firstham.aethergui'
+    namespace 'com.ven.zagrosnet'
     compileSdk 35
 
     defaultConfig {
-        applicationId 'io.github.hamvex.aethergui'
+        applicationId 'io.github.003ven.zagrosnet'
         minSdk 26
         targetSdk 35
         versionCode 24
